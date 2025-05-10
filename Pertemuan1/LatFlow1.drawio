@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.3">
+  <diagram name="Page-1" id="ZiIQAxz12MIaiaACHN-L">
+    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-2" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-OtmIrQCGymKKWkfaCLU-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.5" y="140" as="sourcePoint" />
+            <mxPoint x="429.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-4" value="Input panjang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-OtmIrQCGymKKWkfaCLU-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.5" y="250" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-6" value="Input lebar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-OtmIrQCGymKKWkfaCLU-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="370" as="sourcePoint" />
+            <mxPoint x="429.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-9" value="Luas = panjang * lebar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.5" y="420" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-OtmIrQCGymKKWkfaCLU-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.5" y="480" as="sourcePoint" />
+            <mxPoint x="430" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-13" value="Print luas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.5" y="590" as="sourcePoint" />
+            <mxPoint x="429.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OtmIrQCGymKKWkfaCLU-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
