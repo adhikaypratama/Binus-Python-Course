@@ -25,19 +25,19 @@ while True:
             continue
         
     if inputMenu == '+':
-        print(tambah(x, y))
+        print("Hasil dari", x, "+", y, "sama dengan", tambah(x, y))
         
     elif inputMenu == '-':
-        print(kurang(x, y))
+        print("Hasil dari", x, "-", y, "sama dengan", kurang(x, y))
         
     elif inputMenu == '/':
-        print(bagi(x, y))
+        print("Hasil dari", x, "/", y, "sama dengan", bagi(x, y))
         
     elif inputMenu == '*':
-        print(kali(x, y))
+        print("Hasil dari", x, "*", y, "sama dengan", kali(x, y))
         
     elif inputMenu == '%':
-        print(modulus(x, y))
+        print("Hasil dari", x, "%", y, "sama dengan", modulus(x, y))
         
     elif inputMenu == 'stop':
         print("Stopping Program")
