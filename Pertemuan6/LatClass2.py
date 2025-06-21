@@ -33,7 +33,7 @@ while True:
             continue
         
     elif inputMenu == "2":
-        print(student1.printStudent())
+        (student1.printStudent())
         
     elif inputMenu == "3":
         inputChange = input("Choose what to change (Name/Score): ")
