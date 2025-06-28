@@ -4,8 +4,8 @@ data = {
     "Negara": ["Indonesia", "Jepang", "India", "China", "Amerika Serikat", "Brazil", "Rusia", "Meksiko", "Nigeria", "Jerman"],
     "Ibu Kota": ["Jakarta", "Tokyo", "New Delhi", "Beijing", "Washington DC", "Brazilia", "Moskow", "Meksiko City", "Abuja", "Berlin"],
     "Benua": ["Asia", "Asia", "Asia", "Asia", "Amerika", "Amerika", "Asia", "Amerika", "Afrika", "Eropa"],
-    "Luas": [1905, 377, 3287, 9597, 9834, 8515, 17098, 1964, 923, 357],
-    "Populasi": [264, 143, 1252, 1357, 329, 210, 146, 126, 200, 83]
+    "Luas": [2000, 400, 3300, 10000, 9800, 8500, 18000, 2000, 950, 360],
+    "Populasi": [270, 140, 1200, 1380, 330, 210, 150, 120, 300, 90]
 }
 
 df = pd.DataFrame(data)
